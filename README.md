@@ -2,7 +2,7 @@
 
 <h3>About me:</h3>
 
-- 🔭 I’m currently working on **BaseCure medical app**
+- 🔭 I’m currently working on **eBooks** app
 - 🌱 I’m currently learning **Dart and Flutter**
 - 🤝 I’m looking forward for **my first work experience**
 - 👨‍💻 All of my projects are available on my **<a href="https://github.com/ikbalcaus?tab=repositories">GitHub</a>** profile
