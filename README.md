@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **eBooks**
 - 🌱 I’m currently learning **Dart** and **Flutter**
-- 🤝 I’m looking forward for my first **career opportunity**
+- 🤝 I’m looking forward for my first **Career Opportunity**
 - 👨‍💻 All of my projects are available on my **<a href="https://github.com/ikbalcaus?tab=repositories">GitHub</a>** profile
 - 📫 How to reach me: **<a href="mailto:ikbalcaus">ikbalcaus@gmail.com</a>**, **<a href="https://www.linkedin.com/in/ikbalcaus">LinkedIn</a>**
 
